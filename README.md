@@ -79,6 +79,7 @@ DATABASE = 'todo.db'
   ```json
   {
       "username": "your_username",
+      "email": "your_email",
       "password": "your_password"
   }
   ```
@@ -90,7 +91,7 @@ DATABASE = 'todo.db'
 - **Body**:
   ```json
   {
-      "username": "your_username",
+      "email": "your_email",
       "password": "your_password"
   }
   ```
