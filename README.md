@@ -212,7 +212,8 @@ DATABASE = 'todo.db'
 
 You can use tools like Postman or cURL to test the API endpoints. Ensure you have a valid JWT token for authenticated endpoints.
 
-## License
+## Project Link
+[Project URL](https://roadmap.sh/projects/todo-list-api)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -220,17 +221,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to submit issues or pull requests if you want to contribute to this project.
 
-## Acknowledgements
-
-- [Flask](https://flask.palletsprojects.com/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io/en/stable/)
-```
-
-### Notes
-
-- Replace `yourusername/todo-list-api` in the clone URL with the actual repository URL.
-- You may want to customize the authentication section to match your specific endpoints if they differ.
-- Make sure to update the response samples with accurate timestamps or any other dynamic data as needed.
-
-Feel free to modify or expand upon this `README.md` as necessary for your project! If you have any further requests or need more details, let me know!
